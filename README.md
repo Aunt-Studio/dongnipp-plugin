@@ -3,7 +3,7 @@ Dongni++ a.k.a. 懂你查询 - 鲲鹏框架插件
 
 请务必先阅读并同意我们的[隐私政策](https://dnpp.nuozhen.top/policy/privacy-policy)
 
-（重写准备中
+（[C#重写中](https://github.com/Aunt-Studio/Dongnipp)
 
 ---
 
